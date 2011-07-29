@@ -1,0 +1,16 @@
+{
+  "author": "zires <zshuaibin@gmail.com> (http://zires.info)",
+  "name": "entellus.js",
+  "description": "irc server based on node.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zires/entellus.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zires/entellus.js.git"
+  },
+  "engines": {
+    "node": "~v0.4.11-pre"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
