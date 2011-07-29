@@ -4,13 +4,19 @@
   "description": "chat server based on node.js and socket.io",
   "version": "0.1.0",
   "homepage": "https://github.com/zires/entellus.js",
+  "keywords": ["chat", "server", "node.js", "socket.io"],
   "repository": {
     "type": "git",
     "url": "git://github.com/zires/entellus.js.git"
   },
   "engines": {
-    "node": "~v0.4.11-pre"
+    "node": "0.4.10"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+  	"socket.io": ">= 0.7.0"
+  },
+  "devDependencies": {
+  	"should": ">= 0.2.1",
+  	"vows": ">= 0.4.0"
+  }
 }
