@@ -1,7 +1,7 @@
 {
   "author": "zires <zshuaibin@gmail.com> (http://zires.info)",
   "name": "entellus.js",
-  "description": "irc server based on node.js",
+  "description": "chat server based on node.js and socket.io",
   "version": "0.1.0",
   "homepage": "https://github.com/zires/entellus.js",
   "repository": {
