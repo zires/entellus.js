@@ -18,5 +18,6 @@
   "devDependencies": {
   	"should": ">= 0.2.1",
   	"expresso": ">= 0.8.1"
-  }
+  },
+  "main": "index"
 }
